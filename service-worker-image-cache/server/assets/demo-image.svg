@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e3a8a" />
+      <stop offset="100%" stop-color="#0ea5e9" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <text x="70" y="190" fill="white" font-size="62" font-family="Arial, sans-serif" font-weight="700">
+    no-store 이미지 파일
+  </text>
+  <text x="70" y="280" fill="white" font-size="38" font-family="Arial, sans-serif">
+    server/assets/demo-image.svg
+  </text>
+  <text x="70" y="350" fill="white" font-size="34" font-family="Arial, sans-serif">
+    Service Worker가 이 파일을 캐시합니다.
+  </text>
+</svg>
