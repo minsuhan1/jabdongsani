@@ -12,7 +12,7 @@ https://www.minyeongkim.dev/posts/react-state-render-snapshot
 
 ### setState 호출 시 일어나는 일
 
-![image.png]()
+![setState 호출 시 일어나는 일](image.png)
 
 1. **업데이트 큐에 등록** - 해당 state가 연결된 큐에 "이 값으로 업데이트해달라"는 요청을 추가
    - 업데이트 큐?
